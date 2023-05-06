@@ -19,15 +19,15 @@ let tr =document.createElement("tr")
 
 let th=document.createElement("th")
 th.setAttribute("scope","col")
-th.innerHTML="First"
+th.innerHTML="Id"
 
 let th2=document.createElement("th")
 th2.setAttribute("scope","col")
-th2.innerHTML="Middle"
+th2.innerHTML="Name"
 
 let th3=document.createElement("th")
 th3.setAttribute("scope","col")
-th3.innerHTML="Last"
+th3.innerHTML="Email"
 
 let thead1=document.createElement("thead")
 
